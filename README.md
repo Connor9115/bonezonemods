@@ -1,6 +1,12 @@
 # The Bone Zone Modpack
 "Modpack" for The Bone Zone modded Java server
 
+## Versioning info
+Install folders and script use _X_._Y_ (e.g. v2.1) while the Github releases use _X_._Y_._Z_ (e.g. v2.1.3)  
+_X_ refers to major mod changes that **do** break compatabilty (i.e. you can't join the server without updating)  
+_Y_ refers to minor mod changes that **don't** break compatabilty (i.e. you can still join but your experience may be improved by updating)  
+_Z_ refers to changes that don't need a new mod folder (i.e. no mods were changed, this will mostly be one-click installer updates)  
+
 ## MOD LIST
 https://www.curseforge.com/minecraft/mc-mods/alexs-mobs  
 https://www.curseforge.com/minecraft/mc-mods/additional-lanterns  
